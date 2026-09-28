@@ -1,0 +1,6 @@
+{
+  "name": "AI Comic Story Creator",
+  "description": "Turn your ideas into complete comic stories, characters, dialogue, and illustrated panels using Gemini AI models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
